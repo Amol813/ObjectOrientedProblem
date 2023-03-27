@@ -1,0 +1,39 @@
+{
+  "RiceList": [
+    {
+      "Name": "Basmati",
+      "Weight": 40,
+      "PricePerKg": 40
+    },
+    {
+      "Name": "Jira",
+      "Weight": 55,
+      "PricePerKg": 20
+    }
+  ],
+  "PulsesList": [
+    {
+      "Name": "Pulses1",
+      "PricePerKg": 70,
+      "Weight": 20
+    },
+    {
+      "Name": "Pulses2",
+      "PricePerKg": 80,
+      "Weight": 20
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "Wheat1",
+      "PricePerKg": 20,
+      "Weight": 30
+    },
+    {
+      "Name": "Wheat2",
+      "PricePerKg": 20,
+      "Weight": 50 
+
+    }
+  ]
+}
